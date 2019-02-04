@@ -1,8 +1,14 @@
 # Flutter FoodApp Desing Challenge 
 
-This is amazing Food APP UI Desing give it star and support me!
+  This repo gives you amazing flutter Food App UI design! If you like design please star to support me!
+  
+  ### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/kalismeras61). Thanks!
 
-Demo Video Link : https://www.youtube.com/embed/ZONUwlhpLUI
+  Page Name | Image   
+ --- | --- 
+ [Restaturants Listing View] | <img src="3.jpeg" height= "600"/>
+ [Restaturants Map View] | <img src="2.jpeg" height= "600"/>
+  [Restaturants App Drawer] | <img src="1.jpeg" height= "600"/>
 
 
 ## Getting Started
