@@ -1,4 +1,4 @@
-# Flutter FoodApp Desing Challenge 
+# Flutter FoodApp Design Challenge 
 
   This repo gives you amazing flutter Food App UI design! If you like design please star to support me!
   
